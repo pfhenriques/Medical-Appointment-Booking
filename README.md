@@ -1,7 +1,7 @@
 # Medical Appointment App
 
 # Overview
-Our Medical Appointment App streamlines the process of scheduling medical appointments, making it easy for patients to book, manage, and track their healthcare visits. The app offers a user-friendly interface, allowing seamless interaction between patients and healthcare providers.
+This Medical Appointment App streamlines the process of scheduling medical appointments, making it easy for patients to book, manage, and track their healthcare visits. The app offers a user-friendly interface, allowing seamless interaction between patients and healthcare providers.
 
 # Features
 - Easy Booking: Quickly book appointments with your preferred doctors.
